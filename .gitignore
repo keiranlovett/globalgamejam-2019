@@ -3,7 +3,13 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Bb]uilds/
 Assets/AssetStoreTools*
+
+/PolygonSciFiCity/
+/Assets/Fonts/
+/Assets/FbxExporters/
+/Assets/Audio/
 
 # Visual Studio cache directory
 .vs/
